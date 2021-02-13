@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github Profile! I am `madguy123456788`, I am a Discord Bot developer
+Welcome to my Github Profile! I am `madguy123456788`, a Discord Bot developer
 
 I am the creator of a couple of public bots:
 - [The Bot of Giving](top.gg/bot/775789054448500806)
