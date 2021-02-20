@@ -9,6 +9,7 @@ I am the creator of a couple of public bots:
 If you have any enquiries about any of my public bots, You can find me on discord at `Just a Mushroom#4101` or you can join the support server for all of my discord bots by clicking [here](https://discord.gg/XUX3x8ZWrp)
 
 *Some more of my projects I'll also make open-source on here eventually*
+
 **I am currently taking an extended break from bot development. I will continue to maintain The Bot Of Giving, however no new content will be added to it. *This could result in the easter bot not being completed on time***
 
 <!--
