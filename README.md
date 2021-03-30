@@ -3,7 +3,7 @@
 Welcome to my Github Profile! I am `madguy123456788`, a Discord Bot developer
 
 I am the creator of a couple of public bots:
-- [The Bot of Giving](top.gg/bot/775789054448500806)
+- [The Bot of Giving](https://top.gg/bot/775789054448500806)
 - An Unnamed Easter-Themed Bot **(Being worked on currently)**
 
 If you have any enquiries about any of my public bots, You can find me on discord at `Just a Mushroom#4101` or you can join the support server for all of my discord bots by clicking [here](https://discord.gg/XUX3x8ZWrp)
