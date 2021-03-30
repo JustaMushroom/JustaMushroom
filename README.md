@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github Profile! I am `madguy123456788`, a Discord Bot developer
+Welcome to my Github Profile! I am `JustaMushroom`, a Discord Bot developer
 
 I am the creator of a couple of public bots:
 - [The Bot of Giving](https://top.gg/bot/775789054448500806)
@@ -12,7 +12,7 @@ If you have any enquiries about any of my public bots, You can find me on discor
 
 
 <!--
-**madguy123456788/madguy123456788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JustaMushroom/JustaMushroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
