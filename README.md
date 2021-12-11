@@ -8,6 +8,9 @@ I am the creator of a couple of public bots:
 
 If you have any enquiries about any of my public bots, You can find me on discord at `Just a Mushroom#4101` or you can join the support server for all of my discord bots by clicking [here](https://discord.gg/XUX3x8ZWrp)
 
+**I am not accepting random friend requests to my discord, joining the support server is the only way to contact me on discord**
+
+
 *I'll make more of my projects open-source eventually*
 
 
