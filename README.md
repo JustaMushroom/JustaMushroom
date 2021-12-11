@@ -9,6 +9,7 @@ I am the creator of a couple of public Discord bots:
 I have also made some small utility programs in Python:
 - [DiceRoller](https://github.com/JustaMushroom/DiceRoller)
 - [automatic-discord-game-searcher](https://github.com/JustaMushroom/automatic-discord-game-searcher)
+- *Other projects are either in private repos or are not on GitHub currently*
 
 *All of the links above lead to the GitHub repos of these projects, you can also find them on my profile*
 
