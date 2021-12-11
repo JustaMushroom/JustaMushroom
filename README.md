@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my Github Profile! I am `JustaMushroom`, a Discord Bot developer
+Welcome to my Github Profile! I am `JustaMushroom`, a solo Software Developer
 
-I am the creator of a couple of public bots:
+I am the creator of a couple of public Discord bots:
 - [The Bot of Giving](https://top.gg/bot/775789054448500806)
 - An Unnamed Easter-Themed Bot **(Being worked on currently)**
 
