@@ -4,7 +4,13 @@ Welcome to my Github Profile! I am `JustaMushroom`, a solo Software Developer
 
 I am the creator of a couple of public Discord bots:
 - [The Bot of Giving](https://top.gg/bot/775789054448500806)
-- An Unnamed Easter-Themed Bot **(Being worked on currently)**
+- An Unnamed Easter-Themed Bot **(Not being worked on, will start sometime in 2022)**
+
+I have also made some small utility programs in Python:
+- [DiceRoller](https://github.com/JustaMushroom/DiceRoller)
+- [automatic-discord-game-searcher](https://github.com/JustaMushroom/automatic-discord-game-searcher)
+
+*All of the links above lead to the GitHub repos of these projects, you can also find them on my profile*
 
 If you have any enquiries about any of my public bots, You can find me on discord at `Just a Mushroom#4101` or you can join the support server for all of my discord bots by clicking [here](https://discord.gg/XUX3x8ZWrp)
 
