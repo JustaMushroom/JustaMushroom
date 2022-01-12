@@ -4,6 +4,7 @@ Welcome to my Github Profile! I am `JustaMushroom`, a solo Software Developer
 
 I am the creator of a couple of public Discord bots:
 - [The Bot of Giving](https://top.gg/bot/775789054448500806)
+- [AnimeRater](https://discord.ly/animerater)
 - An Unnamed Easter-Themed Bot **(Not being worked on, will start sometime in 2022)**
 
 I have also made some small utility programs in Python:
