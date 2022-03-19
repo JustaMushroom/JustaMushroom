@@ -1,25 +1,22 @@
 ### Hi there 👋
 
-Welcome to my Github Profile! I am `JustaMushroom`, a solo Software Developer
+Welcome to my Github Profile! I am `JustaMushroom`, an independant Software Developer
 
-I am the creator of a couple of public Discord bots:
-- [The Bot of Giving](https://top.gg/bot/775789054448500806)
-- [AnimeRater](https://discord.ly/animerater)
-- An Unnamed Easter-Themed Bot **(Not being worked on, will start sometime in 2022)**
-
-I have also made some small utility programs in Python:
-- [DiceRoller](https://github.com/JustaMushroom/DiceRoller)
-- [automatic-discord-game-searcher](https://github.com/JustaMushroom/automatic-discord-game-searcher)
-- *Other projects are either in private repos or are not on GitHub currently*
-
-*All of the links above lead to the GitHub repos of these projects, you can also find them on my profile*
-
-If you have any enquiries about any of my public bots, You can find me on discord at `Just a Mushroom#4101` or you can join my personal server by clicking [here](https://discord.gg/4tPNcsTV5A)
-
-**I am not accepting random and unexpected friend requests sent to my Discord account, joining the support server is the only way to get in contact with me on Discord**
+I am the creator of a couple of public Discord Bots:
+- [The Bot of Giving](https://top.gg/bot/775789054448500806) : A Christmas-themed discord bot revolving around server activity
+- [AnimeRater](https://top.gg/bot/923758734218494007) : An AI-powered anime searching and automatic scoring system
+- An Unnamed Easter-Themed Bot **(Not being worked on, completion TBA)**
 
 
-*I'll make more of my projects open-source eventually*
+I have also made some small utility programs in Python which are publicly available on my profile.
+
+*(I have more projects that I am working on which I'll make open-source eventually)*
+
+If you have any enquiries about any of my public bots, You can find me on Discord at `Just a Mushroom#4101` or you can join my personal Discord server by clicking [here](https://discord.gg/4tPNcsTV5A)
+
+**Note: I am not accepting random and unexpected friend requests sent to my Discord account, joining the above server is the only way to get in contact with me on Discord**
+
+<!--*I'll make more of my projects open-source eventually*-->
 
 
 <!--
