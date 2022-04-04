@@ -14,7 +14,7 @@ I have also made some small utility programs in Python which are publicly availa
 
 If you have any enquiries about any of my public bots, You can find me on Discord at `Just a Mushroom#4101` or you can join my personal Discord server by clicking [here](https://discord.gg/4tPNcsTV5A)
 
-**Note: I am not accepting random and unexpected friend requests sent to my Discord account, joining the above server is the only way to get in contact with me on Discord**
+**Note: I am not accepting random and unexpected friend requests sent to my Discord account, joining the above server is the only way to get in contact with me on Discord without stumbling across me on a public community server**
 
 <!--*I'll make more of my projects open-source eventually*-->
 
