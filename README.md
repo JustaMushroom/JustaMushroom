@@ -28,6 +28,8 @@ I am also contactable by email at `ramshaw.ryan@outlook.com` or `justamushroom74
 
 **Note: I am not accepting random and unexpected friend requests sent to my Discord account, joining the above server is the only way to get in contact with me on Discord without stumbling across me on a public community server**
 
+You can support me over at [my Ko-Fi page](https://ko-fi.com/justamushroom)!
+
 <!--*I'll make more of my projects open-source eventually*-->
 
 
