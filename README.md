@@ -32,6 +32,14 @@ I am also contactable by email at `ramshaw.ryan@outlook.com` or `justamushroom74
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A0D5H4I)
 
+My other socials are shown below
+
+![Discord](https://badgen.net/badge/Discord/Just%20a%20Mushroom%234101?icon=discord)
+
+[![Twitter](https://badgen.net/badge/Twitter/@7anGaming?icon=twitter)](https://twitter.com/7anGaming)
+
+<!--[![Keybase](https://badgen.net/badge/Keybase/madguy123456788?icon=keybase)](https://keybase.io/madguy123456788)-->
+
 <!--*I'll make more of my projects open-source eventually*-->
 
 
