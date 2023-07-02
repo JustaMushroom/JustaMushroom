@@ -21,7 +21,7 @@ I have also made some small utility programs in Python which are publicly availa
 
 If you have any enquiries, you can find me on Discord at `Just a Mushroom#4101` or you can join my personal Discord server by clicking [here](https://discord.gg/4tPNcsTV5A)
 
-Alternatively, I am always contactable by email at [`mushy@mushydev.xyz`](mailto:mushy@mushydev.xyz). Please try and direct most business enquiries to this address.
+Alternatively, I am always contactable by email at [`justamushroom74@gmail.com`](mailto:justamushroom74@gmail.com). Please try and direct most business enquiries to this address.
 
 Some Languages/Technologies I am competent in:
  - Languages:
