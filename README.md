@@ -8,18 +8,18 @@ I am the creator of a couple of public Discord Bots:
         * NodeJS
         * Discord.js
         * SQL
-    * Pending rewrite in Pycord (Python)
 
 - [AnimeRater](https://top.gg/bot/923758734218494007) : An AI-powered anime searching and automatic scoring system
     - Technologies:
         * Pycord
         * Python
         * SQL
+    - Currently Maintaining
 
 
-I have also made some small utility programs in Python which are publicly available on my profile.
+I have also made some small utility programs in Python, most of which are publicly available on my profile.
 
-If you have any enquiries, you can find me on Discord at `Just a Mushroom#4101` or you can join my personal Discord server by clicking [here](https://discord.gg/4tPNcsTV5A)
+If you have any enquiries, you can find me on Discord at `justamushroom` or you can join my personal Discord server by clicking [here](https://discord.gg/4tPNcsTV5A)
 
 Alternatively, I am always contactable by email at [`justamushroom74@gmail.com`](mailto:justamushroom74@gmail.com). Please try and direct most business enquiries to this address.
 
